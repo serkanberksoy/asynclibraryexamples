@@ -1,0 +1,22 @@
+{
+  "name": "asynclibraryexamples",
+  "version": "1.0.0",
+  "description": "Async Library Examples",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serkanberksoy/asynclibraryexamples.git"
+  },
+  "keywords": [
+    "Async"
+  ],
+  "author": "Serkan Berksoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serkanberksoy/asynclibraryexamples/issues"
+  },
+  "homepage": "https://github.com/serkanberksoy/asynclibraryexamples#readme"
+}
